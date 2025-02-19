@@ -5,5 +5,6 @@ Jika anda tertarik untuk menjadi Volunteer, silahkan lakukan PR (pull-request) p
 Silahkan gunakan format berikut:<br>
 **\*Nama, [linkedIn / Github / Website] (Alamat URL).**
 
-Berikut adalah daftar volunteer yang diterima: 
+Berikut adalah daftar volunteer yang diterima:<br>
 *Oon Arfiandwi, [oo.or.id] (https://oo.or.id).
+*Yoga Permana Sukma, [https://www.linkedin.com/in/yogapermanasukma1008/]
